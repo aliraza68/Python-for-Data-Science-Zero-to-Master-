@@ -1,3 +1,1 @@
-# Hello-World
-This is my first repository in GitHub
-Also, I am new here and learning how to get started with GitHub.
+Learn Python language for Data Engineering, Data Analyst, Machine Learning/Deep Learning, as well as, for Data Science from Begineer-level to Advanced-level.
